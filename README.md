@@ -50,11 +50,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=LM7Je80Bdm4)
 - [.NET Core Everywhere - Visual Studio Tour 2020 Live](https://www.youtube.com/watch?v=TOZteJR0my8)
 - [Entity Framework Core v3 from SQL to NoSQL](https://www.youtube.com/watch?v=bRdD5vkphRk)
 - [Logging con .NET Core](https://www.youtube.com/watch?v=VAZc7xu-gPE)
 - [Azure Cognitive Search oltre la prima demo - Azure Day 2020](https://www.youtube.com/watch?v=Xf05gE0af7U)
-- [.NET Core Everywhere - Live Stream](https://www.youtube.com/watch?v=4uLBrj5PA2k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
