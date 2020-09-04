@@ -36,6 +36,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Speech Recognition in .NET Core WPF applications](https://marcominerva.wordpress.com/2020/08/06/continuous-speech-recognition-in-net-core-wpf-applications/)
+- [Integrating Cognitive Service Speech Recognition in .NET Core WPF applications](https://marcominerva.wordpress.com/2020/07/31/integrating-cognitive-service-speech-recognition-in-net-core-wpf-applications/)
+- [JSON handling made easy with System.Net.Http.Json](https://marcominerva.wordpress.com/2020/05/21/json-handling-made-easy-with-system-net-http-json/)
+- [Using HostBuilder, ServiceProvider and Dependency Injection with Windows Forms on .NET Core 3](https://marcominerva.wordpress.com/2020/03/09/using-hostbuilder-serviceprovider-and-dependency-injection-with-windows-forms-on-net-core-3/)
+- [An MVVM-aware NavigationService for WPF running on .NET Core](https://marcominerva.wordpress.com/2020/01/13/an-mvvm-aware-navigationservice-for-wpf-running-on-net-core/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
