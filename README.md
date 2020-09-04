@@ -56,7 +56,6 @@ I have been working with .NET since its first introduction. Currently I work as 
 
 ---
 
-
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
   
