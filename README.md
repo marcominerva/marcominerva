@@ -62,18 +62,18 @@ I have been working with .NET since its first introduction. Currently I work as 
 ---
 
 <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Marco Minerva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcominerva&show_icons=true&hide_border=true&count_private=true" />
+
+</details>
+
+<details>
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com//andreatosato/Entity-FrameworkCore3-from-SQL-2-NoSQL/pull/1) in [andreatosato/Entity-FrameworkCore3-from-SQL-2-NoSQL](https://github.com//andreatosato/Entity-FrameworkCore3-from-SQL-2-NoSQL)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Marco Minerva's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcominerva&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
 
