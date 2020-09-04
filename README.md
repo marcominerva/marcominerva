@@ -65,6 +65,7 @@ I have been working with .NET since its first introduction. Currently I work as 
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com//andreatosato/Entity-FrameworkCore3-from-SQL-2-NoSQL/pull/1) in [andreatosato/Entity-FrameworkCore3-from-SQL-2-NoSQL](https://github.com//andreatosato/Entity-FrameworkCore3-from-SQL-2-NoSQL)
 <!--END_SECTION:activity-->
 
 </details>
