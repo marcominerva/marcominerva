@@ -50,7 +50,7 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live coding: creiamo la libreria TinyNetHelpers](https://www.youtube.com/watch?v=Ad23ZbHZKYY)
+- [Live coding: Creiamo la libreria TinyNetHelpers](https://www.youtube.com/watch?v=Ad23ZbHZKYY)
 - [.NET Core Everywhere - Visual Studio Tour 2020 Live](https://www.youtube.com/watch?v=TOZteJR0my8)
 - [Entity Framework Core v3 from SQL to NoSQL](https://www.youtube.com/watch?v=bRdD5vkphRk)
 - [Logging con .NET Core](https://www.youtube.com/watch?v=VAZc7xu-gPE)
