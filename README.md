@@ -50,11 +50,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=cWhf7CwahxU)
 - [Live Coding: HttpClient Tips & Tricks](https://www.youtube.com/watch?v=9Chg9U4SZn0)
 - [Live coding: Conversione dati con Entity Framework Core e Dapper](https://www.youtube.com/watch?v=O_5Km5Izzv4)
 - [Live Coding: nuovi metodi su TinyNetHelpers, versionamento e pubblicazione su NuGet](https://www.youtube.com/watch?v=N-MYq7HXhew)
 - [Live coding: Creiamo la libreria TinyNetHelpers](https://www.youtube.com/watch?v=Ad23ZbHZKYY)
-- [.NET Core Everywhere - Visual Studio Tour 2020 Live](https://www.youtube.com/watch?v=TOZteJR0my8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
