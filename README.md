@@ -64,7 +64,7 @@ I have been working with .NET since its first introduction. Currently I work as 
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/marcominerva/TinyNetHelpers/issues/17) in [marcominerva/TinyNetHelpers](https://github.com/marcominerva/TinyNetHelpers)
+1. ❗️ Opened issue [#3](https://github.com/marcominerva/CustomCommands/issues/3) in [marcominerva/CustomCommands](https://github.com/marcominerva/CustomCommands)
 <!--END_SECTION:activity-->
 
 </details>
