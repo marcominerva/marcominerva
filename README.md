@@ -64,7 +64,7 @@ I have been working with .NET since its first introduction. Currently I work as 
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#852](https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/852) in [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
+1. 🎉 Merged PR [#7](https://github.com/marcominerva/CustomCommands/pull/7) in [marcominerva/CustomCommands](https://github.com/marcominerva/CustomCommands)
 <!--END_SECTION:activity-->
 
 </details>
