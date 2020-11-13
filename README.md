@@ -50,11 +50,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=QySRCOuxk_s)
 - [Azure Custom Commands Demo](https://www.youtube.com/watch?v=QbbZpreVR68)
 - [Live Coding: Ordinamento e paginazione dei dati con Entity Framework Core e Dapper](https://www.youtube.com/watch?v=ZCSCSxVuISM)
 - [Live Coding: da HttpClient a Refit, un caso reale](https://www.youtube.com/watch?v=2l0IsDXUyz8)
 - [Building Voice Assistants with Custom Commands -  RoboGen Automation](https://www.youtube.com/watch?v=n1eZQq1XMkw)
+- [Live Coding: Gestire efficacemente le chiamate REST con la libreria Refit](https://www.youtube.com/watch?v=SqnMOpdwXJ0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
