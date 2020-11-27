@@ -50,11 +50,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=ls7ILGkvZD0)
 - [Live Coding: Altre novità di C# 9.0 e di .NET 5.0](https://www.youtube.com/watch?v=hPaMogKaXcI)
 - [Live Coding: Le novità di C# 9.0](https://www.youtube.com/watch?v=JsFAHyf6W0A)
 - [Azure Custom Commands Demo](https://www.youtube.com/watch?v=QbbZpreVR68)
 - [Live Coding: Ordinamento e paginazione dei dati con Entity Framework Core e Dapper](https://www.youtube.com/watch?v=ZCSCSxVuISM)
+- [Live Coding: da HttpClient a Refit, un caso reale](https://www.youtube.com/watch?v=2l0IsDXUyz8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
