@@ -50,11 +50,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Copia di Live Coding: Attività in background e schedulate con .NET](https://www.youtube.com/watch?v=-4Sb2gZ3Avw)
 - [Live Coding: Condivisione di codice tra piattaforme diverse con .NET](https://www.youtube.com/watch?v=PuiEq88cBlY)
 - [Live Coding: Le novità di .NET 5.0 per il mondo Desktop](https://www.youtube.com/watch?v=9MYPbzXhGrU)
 - [Live Coding: Le novità di Entity Framework Core 5.0](https://www.youtube.com/watch?v=ulCZKUOJgEk)
 - [Live Coding: Altre novità di C# 9.0 e di .NET 5.0](https://www.youtube.com/watch?v=hPaMogKaXcI)
-- [Live Coding: Le novità di C# 9.0](https://www.youtube.com/watch?v=JsFAHyf6W0A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
