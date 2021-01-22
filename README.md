@@ -50,11 +50,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=fL4dLVOGXdY)
 - [Live Coding: Logging con .NET (seconda parte)](https://www.youtube.com/watch?v=EyoAYkjkyUg)
 - [Live Coding: Logging con .NET (prima parte)](https://www.youtube.com/watch?v=PnhRxuM5Zo4)
 - [Live Coding: Attività in background e schedulate con .NET](https://www.youtube.com/watch?v=-4Sb2gZ3Avw)
 - [Live Coding: Condivisione di codice tra piattaforme diverse con .NET](https://www.youtube.com/watch?v=PuiEq88cBlY)
+- [Live Coding: Le novità di .NET 5.0 per il mondo Desktop](https://www.youtube.com/watch?v=9MYPbzXhGrU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
