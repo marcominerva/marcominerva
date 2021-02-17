@@ -79,6 +79,6 @@ I have been working with .NET since its first introduction. Currently I work as 
 [website]: https://about.me/marcominerva
 [blog]: https://marcominerva.wordpress.com
 [twitter]: https://twitter.com/marcominerva
-[youtube]: https://www.youtube.com/channel/UCYU2iA9BN92QrL3I90YFZfQ/
+[youtube]: https://www.youtube.com/user/marcominerva
 [linkedin]: https://linkedin.com/in/marcominerva
 [sessionsplaylist]: https://www.youtube.com/playlist?list=PLKeFgOgTdtmrNari9fzWIIzgKJ4tAqSqI
