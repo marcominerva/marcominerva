@@ -36,11 +36,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=ARsw-k0A7kA)
 - [Live Coding: Entity Framework Core 5 Tips & Tricks (seconda parte)](https://www.youtube.com/watch?v=SBUy6k7yVN4)
 - [Live Coding: Entity Framework Core 5 Tips & Tricks (prima parte)](https://www.youtube.com/watch?v=7CiAyKOGAaA)
 - [Live Coding: Migrations vs SQL Server Database Project](https://www.youtube.com/watch?v=qIdwsdslAN8)
 - [Live Coding: appsettings.json unleashed](https://www.youtube.com/watch?v=FgcxJufAkk4)
+- [Live Coding: Route-to-code, le Web API senza Framework](https://www.youtube.com/watch?v=dIA8Uyrnqf4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
