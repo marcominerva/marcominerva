@@ -64,7 +64,7 @@ I have been working with .NET since its first introduction. Currently I work as 
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#790](https://github.com/dotnet-foundation/website/pull/790) in [dotnet-foundation/website](https://github.com/dotnet-foundation/website)
+1. 🗣 Commented on [#1](https://github.com/marcominerva/Swagger/issues/1) in [marcominerva/Swagger](https://github.com/marcominerva/Swagger)
 <!--END_SECTION:activity-->
 
 </details>
