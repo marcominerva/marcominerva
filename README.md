@@ -37,11 +37,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=9nUrXwbm8qU)
 - [Live Coding: Dependency Injection like a pro (seconda parte)](https://www.youtube.com/watch?v=B-YtWrIEs-0)
 - [Live Coding: Dependency Injection like a pro (prima parte)](https://www.youtube.com/watch?v=xQXX_I89Zxw)
 - [Live Coding: alla scoperta del pattern async/await (seconda parte)](https://www.youtube.com/watch?v=L4J-m45NWSo)
 - [Live Coding: alla scoperta del pattern async/await (prima parte)](https://www.youtube.com/watch?v=23oyxTAutsQ)
+- [Live Coding: Entity Framework Core 5 Tips & Tricks (seconda parte)](https://www.youtube.com/watch?v=SBUy6k7yVN4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
