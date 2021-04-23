@@ -37,7 +37,7 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=pgR7cq3FWhw)
+- [Live Coding: Autenticazione, autorizzazione e ASP .NET Core Identity (seconda parte)](https://www.youtube.com/watch?v=pgR7cq3FWhw)
 - [Unplugged Coding: aggiornare una libreria a .NET 5.0 (terza parte)](https://www.youtube.com/watch?v=vYQ1sXs1B9k)
 - [Unplugged Coding: aggiornare una libreria a .NET 5.0 (seconda parte)](https://www.youtube.com/watch?v=iLgzy86DYU4)
 - [Unplugged Coding: aggiornare una libreria a .NET 5.0 (prima parte)](https://www.youtube.com/watch?v=d04x7EXKd-k)
