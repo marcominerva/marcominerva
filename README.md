@@ -37,11 +37,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: ASP.NET Core Identity (seconda parte)](https://www.youtube.com/watch?v=r1zeVXr7YrM)
+- [Live Coding: ASP.NET Core Identity (seconda parte)](https://www.youtube.com/watch?v=Ap2k6ZRlxF0)
 - [Unplugged Coding: Sviluppare una libreria .NET con GitHub (terza parte)](https://www.youtube.com/watch?v=YgLXCU2qr0M)
 - [Live Coding: ASP.NET Core Identity (prima parte)](https://www.youtube.com/watch?v=Jm224wZ9JP0)
 - [Unplugged Coding: Sviluppare una libreria .NET con GitHub (seconda parte)](https://www.youtube.com/watch?v=5KYwm9Yu5do)
-- [Unplugged Coding: Sviluppare una libreria .NET con GitHub (prima parte)](https://www.youtube.com/watch?v=rbgOlTv73LU)
-- [Live Coding: Autenticazione, autorizzazione e ASP .NET Core Identity (seconda parte)](https://www.youtube.com/watch?v=pgR7cq3FWhw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
