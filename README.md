@@ -37,7 +37,7 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=TMWV9f6ebH4)
+- [Live Coding: Condivisione dell'Access Token tra servizi diversi con ASP.NET Core Identity](https://www.youtube.com/watch?v=TMWV9f6ebH4)
 - [Live Coding: Refresh Token con ASP.NET Core Identity](https://www.youtube.com/watch?v=-JLzILEIzzI)
 - [Live Coding: ASP.NET Core Identity (seconda parte)](https://www.youtube.com/watch?v=9Tb8kvzoFTM)
 - [Unplugged Coding: Sviluppare una libreria .NET con GitHub (terza parte)](https://www.youtube.com/watch?v=YgLXCU2qr0M)
