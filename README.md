@@ -65,7 +65,7 @@ I have been working with .NET since its first introduction. Currently I work as 
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#160](https://github.com/thudugala/Plugin.LocalNotification/issues/160) in [thudugala/Plugin.LocalNotification](https://github.com/thudugala/Plugin.LocalNotification)
+1. 🗣 Commented on [#160](https://github.com/thudugala/Plugin.LocalNotification/issues/160) in [thudugala/Plugin.LocalNotification](https://github.com/thudugala/Plugin.LocalNotification)
 <!--END_SECTION:activity-->
 
 </details>
