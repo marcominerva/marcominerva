@@ -37,7 +37,7 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=A4IMBsaMtt4)
+- [Live Coding: le novità di .NET 6.0 e Entity Framework Core 6.0](https://www.youtube.com/watch?v=A4IMBsaMtt4)
 - ["Live Coding".Replace("Coding", "Q&A");](https://www.youtube.com/watch?v=ZrkoaSSH7OY)
 - [Sviluppiamo un Assistente Vocale con Azure Custom Commands](https://www.youtube.com/watch?v=KnJhotNTQJE)
 - [Live Coding: Le novità di C# 10](https://www.youtube.com/watch?v=1ME6CLbuCXU)
