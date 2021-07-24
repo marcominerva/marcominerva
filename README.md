@@ -37,7 +37,7 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: Upload di file con ASP .NET Core Web API](https://www.youtube.com/watch?v=5HuFPNuopNM)
+- [Live Coding: Upload di file con ASP.NET Core Web API](https://www.youtube.com/watch?v=5HuFPNuopNM)
 - ["Live Coding".Replace("Coding", "Q&A #2");](https://www.youtube.com/watch?v=sd8OLMbZNCk)
 - [Live Coding: le novità di .NET 6.0 e Entity Framework Core 6.0](https://www.youtube.com/watch?v=A4IMBsaMtt4)
 - ["Live Coding".Replace("Coding", "Q&A");](https://www.youtube.com/watch?v=ZrkoaSSH7OY)
