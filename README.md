@@ -65,7 +65,7 @@ I have been working with .NET since its first introduction. Currently I work as 
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/marcominerva/Swagger/issues/1) in [marcominerva/Swagger](https://github.com/marcominerva/Swagger)
+1. 🎉 Merged PR [#3](https://github.com/marcominerva/EntityDapperCore/pull/3) in [marcominerva/EntityDapperCore](https://github.com/marcominerva/EntityDapperCore)
 <!--END_SECTION:activity-->
 
 </details>
