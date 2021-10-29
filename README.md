@@ -37,11 +37,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=eGAa9B2Ndfs)
 - [Live Coding: gestione code con Azure Service Bus](https://www.youtube.com/watch?v=7pKtreuA-js)
 - [Live Coding: upload di file in chunk in ASP.NET Core](https://www.youtube.com/watch?v=67r_QfaxrKQ)
 - [Un anno di Live Coding: il ritorno di TinyHelpers (Multi-Targeting con .NET 6.0)](https://www.youtube.com/watch?v=gr9tSpGv63g)
 - [Live Coding: Upload di file con ASP.NET Core Web API (seconda parte)](https://www.youtube.com/watch?v=QuBqd7-yQmk)
-- [Live Coding: Upload di file con ASP.NET Core Web API](https://www.youtube.com/watch?v=5HuFPNuopNM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
