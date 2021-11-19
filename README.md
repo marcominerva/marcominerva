@@ -37,7 +37,7 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=yGmgSAJt3yo)
+- [Live Coding: le novità di .NET 6.0 &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=yGmgSAJt3yo)
 - [Live Coding: le novità di .NET 6.0](https://www.youtube.com/watch?v=sOJJZJfPAnc)
 - [Live Coding: validazione dei dati con FluentValidation](https://www.youtube.com/watch?v=eGAa9B2Ndfs)
 - [Live Coding: gestione code con Azure Service Bus](https://www.youtube.com/watch?v=7pKtreuA-js)
