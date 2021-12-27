@@ -69,7 +69,7 @@ I have been working with .NET since its first introduction. Currently I work as 
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/DamianEdwards/MiniValidation/pull/18) in [DamianEdwards/MiniValidation](https://github.com/DamianEdwards/MiniValidation)
+1. 🗣 Commented on [#157](https://github.com/khellang/Middleware/issues/157) in [khellang/Middleware](https://github.com/khellang/Middleware)
 <!--END_SECTION:activity-->
 
 </details>
