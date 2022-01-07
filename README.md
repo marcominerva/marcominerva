@@ -55,11 +55,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DateOnly and TimeOnly support with Entity Framework Core 6.0](https://marcominerva.wordpress.com/2022/01/07/dateonly-and-timeonly-support-with-entity-framework-core-6-0/)
 - [DateOnly and TimeOnly support with System.Text.Json](https://marcominerva.wordpress.com/2021/11/22/dateonly-and-timeonly-support-with-system-text-json/)
 - [Developing Desktop applications with .NET 5.0](https://marcominerva.wordpress.com/2021/01/04/developing-desktop-applications-with-net-5-0/)
 - [Continuous Speech Recognition in .NET Core WPF applications](https://marcominerva.wordpress.com/2020/08/06/continuous-speech-recognition-in-net-core-wpf-applications/)
 - [Integrating Cognitive Service Speech Recognition in .NET Core WPF applications](https://marcominerva.wordpress.com/2020/07/31/integrating-cognitive-service-speech-recognition-in-net-core-wpf-applications/)
-- [JSON handling made easy with System.Net.Http.Json](https://marcominerva.wordpress.com/2020/05/21/json-handling-made-easy-with-system-net-http-json/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
