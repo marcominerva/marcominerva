@@ -41,7 +41,7 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=KwlbLN4mzkc)
+- [Live Coding: WPF &amp; MVVM con .NET 6.0](https://www.youtube.com/watch?v=KwlbLN4mzkc)
 - [Live Coding: Windows Forms con .NET 6.0](https://www.youtube.com/watch?v=d1ddPzUcuxM)
 - [Live Coding: Unit Test con Andrea Tosato](https://www.youtube.com/watch?v=TjyIm0Pkx9g)
 - [Live Coding: Minimal API](https://www.youtube.com/watch?v=RVnb9WfgWD0)
