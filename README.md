@@ -69,7 +69,7 @@ I have been working with .NET since its first introduction. Currently I work as 
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39886](https://github.com/dotnet/aspnetcore/issues/39886) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+1. 🎉 Merged PR [#10](https://github.com/marcominerva/MinimalHelpers.Registration/pull/10) in [marcominerva/MinimalHelpers.Registration](https://github.com/marcominerva/MinimalHelpers.Registration)
 <!--END_SECTION:activity-->
 
 </details>
