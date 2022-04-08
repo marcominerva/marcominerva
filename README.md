@@ -41,11 +41,11 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=9_gw0Jw6mws)
 - [Live Coding: My Web API Toolbox &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=86dKWQ14Uew)
 - [Live Coding: My Web API Toolbox &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=bOcKV3TocjE)
 - [Live Coding: gestione multi-tenant nelle Web API &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=mEvl4rnosjA)
 - [Live Coding: gestione multi-tenant nelle Web API &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=xoBre9D5h9I)
-- [Live Coding: Localizzazione e Globalizzazione nelle Web API](https://www.youtube.com/watch?v=ALTRl-vGW3Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
