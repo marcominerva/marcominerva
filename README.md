@@ -41,7 +41,7 @@ I have been working with .NET since its first introduction. Currently I work as 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: la gestione senza fine di date e orari nei backend](https://www.youtube.com/watch?v=Wq4jwx1eRO0)
+- [Live Coding: la gestione senza fine di date e orari nei backend &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=Wq4jwx1eRO0)
 - [Live Coding: multi-tenant compendium](https://www.youtube.com/watch?v=QbN1qj5zJiw)
 - [Live Coding: documentiamo le nostre API con Swagger](https://www.youtube.com/watch?v=9_gw0Jw6mws)
 - [Live Coding: My Web API Toolbox &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=86dKWQ14Uew)
