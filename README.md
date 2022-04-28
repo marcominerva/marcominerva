@@ -8,7 +8,7 @@
 
 ## I'm a Consultant, a Software Engineer, a Teacher and a Speaker!
 
-I have been working with .NET since its first introduction. Currently I work as freelance consultant and I'm involved in designing and developing applications for the Microsoft ecosystem. I organize and hold training courses on these topics. I'm co-founder and Community Leader of [DotNetToscana](https://dotnettoscana.org) and member of [DotNetLiguria](https://dotnetliguria.net), two Italian User Groups. I'm speaker at technical events and I write articles for magazines. I'm a Microsoft MVP since 2013.
+I have been using .NET since its first introduction. Today I proudly live in Taggia, Italy, I work as a freelance consultant and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web. My greatest expertise is backend development as a software architect. I hold training courses. I'm a speaker at technical events, write articles for magazines and regularly make live streaming about coding on Twitch. I'm a Microsoft MVP since 2013.
 
 ### Connect with me:
 
