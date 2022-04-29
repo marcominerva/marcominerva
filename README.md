@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=FZW36i3_FHY)
 - [Live Coding: la gestione senza fine di date e orari nei backend &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=Wq4jwx1eRO0)
 - [Live Coding: multi-tenant compendium](https://www.youtube.com/watch?v=QbN1qj5zJiw)
 - [Live Coding: documentiamo le nostre API con Swagger](https://www.youtube.com/watch?v=9_gw0Jw6mws)
 - [Live Coding: My Web API Toolbox &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=86dKWQ14Uew)
-- [Live Coding: My Web API Toolbox &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=bOcKV3TocjE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
