@@ -41,7 +41,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Simple Authentication for ASP.NET Core](https://www.youtube.com/watch?v=P8atWWzm6Xk)
+- [Simple Authentication for ASP.NET Core](https://www.youtube.com/watch?v=SVZuaPE2yNc)
 - [Live Coding: sviluppiamo una libreria per l&#39;autenticazione JWT &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=zfEsmsXKnFY)
 - [Live Coding: sviluppiamo una libreria per l&#39;autenticazione JWT &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=oNbffpJE9-M)
 - [Live Coding: La gestione senza fine di date e orari nei backend &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=FZW36i3_FHY)
