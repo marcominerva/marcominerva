@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=7MZakT9J4gY)
 - [Simple Authentication for ASP.NET Core](https://www.youtube.com/watch?v=SVZuaPE2yNc)
 - [Live Coding: sviluppiamo una libreria per l&#39;autenticazione JWT &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=zfEsmsXKnFY)
 - [Live Coding: sviluppiamo una libreria per l&#39;autenticazione JWT &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=oNbffpJE9-M)
 - [Live Coding: La gestione senza fine di date e orari nei backend &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=FZW36i3_FHY)
-- [Live Coding: la gestione senza fine di date e orari nei backend &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=Wq4jwx1eRO0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
