@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=5RlOAscSowc)
 - [Live Coding: sviluppiamo un CMS engine in ASP.NET Core &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=0bw8gBzgKjc)
 - [Live Coding: Refit](https://www.youtube.com/watch?v=8JqquWw7DwM)
 - [Live Coding: HttpClient vs Refit](https://www.youtube.com/watch?v=6rnk_Xax9Uo)
 - [Live Coding: impersonificazione utente &lpar;e molto altro&rpar;](https://www.youtube.com/watch?v=TwBH9J4vew0)
+- [Live Coding: autenticazione con API Key nelle Web API](https://www.youtube.com/watch?v=7MZakT9J4gY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
