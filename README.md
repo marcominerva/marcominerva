@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=Fdo8D09I91M)
 - [Live Coding: Sviluppiamo e pubblichiamo la libreria OperationResult &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=mwIL2dMREQM)
 - [Live Coding: è il momento! Sviluppiamo e pubblichiamo la libreria OperationResult! &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=7ju03p3Sxx8)
 - [Live Coding: sviluppiamo un CMS engine in ASP.NET Core &lpar;terza parte&rpar;](https://www.youtube.com/watch?v=OX-0qk_bjJg)
 - [Live Coding: sviluppiamo un CMS engine in ASP.NET Core &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=5RlOAscSowc)
-- [Live Coding: sviluppiamo un CMS engine in ASP.NET Core &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=0bw8gBzgKjc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
