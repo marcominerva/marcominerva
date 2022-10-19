@@ -69,7 +69,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/marcominerva/OperationResults/pull/13) in [marcominerva/OperationResults](https://github.com/marcominerva/OperationResults)
+1. 🎉 Merged PR [#100](https://github.com/marcominerva/TinyHelpers/pull/100) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
 <!--END_SECTION:activity-->
 
 </details>
