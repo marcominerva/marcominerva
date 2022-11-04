@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=c4XcHhGGnF8)
 - [Live Coding: condividere progetti fra repository diversi](https://www.youtube.com/watch?v=a7aI3hcsaOc)
 - [Live Coding: alla scoperta di Hangfire](https://www.youtube.com/watch?v=wMW5oPvoo5A)
 - [Live Coding: alla scoperta di MediatR](https://www.youtube.com/watch?v=20HMnsKqVEQ)
 - [Live Coding: inviare e-mail da .NET](https://www.youtube.com/watch?v=gttula-vivE)
-- [Live Coding: Sviluppiamo e pubblichiamo la libreria OperationResult &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=mwIL2dMREQM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
