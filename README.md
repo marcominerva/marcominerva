@@ -8,7 +8,7 @@
 
 ## I'm a Consultant, a Software Engineer, a Teacher and a Speaker!
 
-I have been using .NET since its first introduction. Today I proudly live in Taggia, Italy, I work as a freelance consultant and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web. My greatest expertise is backend development as a software architect. I hold training courses. I'm a speaker at technical events, write books and articles about developing and regularly make live streaming about coding on Twitch. I'm a Microsoft MVP since 2013.
+I have been using .NET since its first introduction. Today I proudly live in Taggia, Italy, I work as a freelance consultant and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web. My greatest expertise is backend development as a software architect. I hold training courses. I'm a speaker at technical events, I write books and articles about developing and I regularly make live streaming about coding on Twitch. I'm a Microsoft MVP since 2013.
 
 ### Connect with me:
 
