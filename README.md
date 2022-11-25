@@ -69,7 +69,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#389](https://github.com/FatturaElettronica/FatturaElettronica.NET/issues/389) in [FatturaElettronica/FatturaElettronica.NET](https://github.com/FatturaElettronica/FatturaElettronica.NET)
+1. 🗣 Commented on [#389](https://github.com/FatturaElettronica/FatturaElettronica.NET/issues/389) in [FatturaElettronica/FatturaElettronica.NET](https://github.com/FatturaElettronica/FatturaElettronica.NET)
 <!--END_SECTION:activity-->
 
 </details>
