@@ -41,7 +41,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=_tcCS7qdTkA)
+- [Live Coding: le novità delle Minimal API in .NET 7.0 &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=_tcCS7qdTkA)
 - [Live Coding: Unit Test e documentazione su TinyHelpers](https://www.youtube.com/watch?v=gf0EVn8_bS8)
 - [Live Coding: le novità di ASP.NET Core 7.0 &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=4tjwS30Q56E)
 - [Live Coding: le novità di ASP.NET Core 7.0 &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=GhyQwACXdfs)
