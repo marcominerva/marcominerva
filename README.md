@@ -1,10 +1,10 @@
 ### Hi there, I'm [Marco][website] 👋 💻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/marcominerva?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarcominerva&screen_name=marcominerva)
-[![Discord](https://img.shields.io/discord/488014271641419777?style=for-the-badge)](https://discord.com/channels/488014271641419777)
+[![GitHub followers](https://img.shields.io/github/followers/marcominerva?label=GitHub%20Followers&style=for-the-badge)](https://github.com/marcominerva)
+[![Discord](https://img.shields.io/discord/488014271641419777?label=Discord&style=for-the-badge)](https://discord.com/channels/488014271641419777)
 [![Twitch Status](https://img.shields.io/twitch/status/marcominerva?style=for-the-badge)](https://www.twitch.tv/marcominerva)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCYU2iA9BN92QrL3I90YFZfQ?style=for-the-badge)](https://youtube.com/marcominerva)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?style=for-the-badge)](https://youtube.com/marcominerva)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/marcominerva)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge)](https://youtube.com/marcominerva)
 
 ## I'm a Consultant, a Software Engineer, a Teacher and a Speaker!
 
