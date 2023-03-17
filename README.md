@@ -41,7 +41,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=azfN4D5WXkE)
+- [Live Coding: integriamo ChatGPT in un&#39;applicazione .NET](https://www.youtube.com/watch?v=azfN4D5WXkE)
 - [Live Coding: il Rate Limiter di ASP.NET Core 7.0](https://www.youtube.com/watch?v=oBHSsEdWcqo)
 - [Live Coding: le novità di .NET 8.0 Preview 1](https://www.youtube.com/watch?v=Qs9XluDfs4Y)
 - [Costruire un backend con le Minimal API](https://www.youtube.com/watch?v=5K5fSrqzHCQ)
