@@ -52,24 +52,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [DateOnly and TimeOnly support with Entity Framework Core 6.0](https://marcominerva.wordpress.com/2022/01/07/dateonly-and-timeonly-support-with-entity-framework-core-6-0/)
-- [DateOnly and TimeOnly support with System.Text.Json](https://marcominerva.wordpress.com/2021/11/22/dateonly-and-timeonly-support-with-system-text-json/)
-- [Developing Desktop applications with .NET 5.0](https://marcominerva.wordpress.com/2021/01/04/developing-desktop-applications-with-net-5-0/)
-- [Continuous Speech Recognition in .NET Core WPF applications](https://marcominerva.wordpress.com/2020/08/06/continuous-speech-recognition-in-net-core-wpf-applications/)
-- [Integrating Cognitive Service Speech Recognition in .NET Core WPF applications](https://marcominerva.wordpress.com/2020/07/31/integrating-cognitive-service-speech-recognition-in-net-core-wpf-applications/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][blog]
-
----
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/marcominerva/ChatGptNet/issues/10) in [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet)
+1. 🎉 Merged PR [#24](https://github.com/marcominerva/ChatGptNet/pull/24) in [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet)
 <!--END_SECTION:activity-->
 
 </details>
@@ -82,9 +69,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 </details>
 
 [website]: https://about.me/marcominerva
-[blog]: https://marcominerva.wordpress.com
 [twitter]: https://twitter.com/marcominerva
 [twitch]: https://twitch.tv/marcominerva
 [youtube]: https://www.youtube.com/marcominerva
 [linkedin]: https://linkedin.com/in/marcominerva
-[sessionsplaylist]: https://www.youtube.com/playlist?list=PLKeFgOgTdtmrNari9fzWIIzgKJ4tAqSqI
