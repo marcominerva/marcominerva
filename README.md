@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: integriamo ChatGPT in un&#39;applicazione Blazor](https://www.youtube.com/watch?v=uKyEgH_SZi0)
 - [Live Coding: integriamo ChatGPT in un&#39;applicazione .NET](https://www.youtube.com/watch?v=azfN4D5WXkE)
 - [Live Coding: il Rate Limiter di ASP.NET Core 7.0](https://www.youtube.com/watch?v=oBHSsEdWcqo)
 - [Live Coding: le novità di .NET 8.0 Preview 1](https://www.youtube.com/watch?v=Qs9XluDfs4Y)
 - [Costruire un backend con le Minimal API](https://www.youtube.com/watch?v=5K5fSrqzHCQ)
-- [Live Coding: le novità di Entity Framework Core 7.0 &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=oacXkgw_4D0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
