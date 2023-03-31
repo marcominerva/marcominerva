@@ -41,7 +41,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=txPOmF9MK8g)
+- [Live Coding: come gestire l&#39;autorizzazione basata su permessi in ASP.NET Core](https://www.youtube.com/watch?v=txPOmF9MK8g)
 - [Live Coding: integriamo ChatGPT in un&#39;applicazione Blazor](https://www.youtube.com/watch?v=uKyEgH_SZi0)
 - [Live Coding: integriamo ChatGPT in un&#39;applicazione .NET](https://www.youtube.com/watch?v=azfN4D5WXkE)
 - [Live Coding: il Rate Limiter di ASP.NET Core 7.0](https://www.youtube.com/watch?v=oBHSsEdWcqo)
