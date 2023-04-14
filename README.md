@@ -41,7 +41,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=sx-NsTOPYt8)
+- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=7-ekMStZgbU)
 - [Document Chatter](https://www.youtube.com/watch?v=6dkRqfKMgYY)
 - [Document Chatter](https://www.youtube.com/watch?v=sKAPNVID8Go)
 - [Live Coding: come gestire l&#39;autorizzazione basata su permessi in ASP.NET Core](https://www.youtube.com/watch?v=txPOmF9MK8g)
