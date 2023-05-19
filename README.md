@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: le novità di .NET 8 Preview 4 &lpar;e non solo&rpar;](https://www.youtube.com/watch?v=ZXxZlTsgmsI)
 - [Live Coding: Razor Pages e Web API nella stessa applicazione ASP.NET Core &lpar;terza parte&rpar;](https://www.youtube.com/watch?v=-TOX27hGl0Y)
 - [Live Coding: Razor Pages e Web API nella stessa applicazione ASP.NET Core &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=raz6QNqgwWc)
 - [Live Coding: Razor Pages e Web API nella stessa applicazione ASP.NET Core &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=5DEaw4HmgHc)
 - [Live Coding: sviluppo client-side con ASP.NET Core e Alpine.js](https://www.youtube.com/watch?v=vRMZRUZ4mQo)
-- [Document Chatter](https://www.youtube.com/watch?v=6dkRqfKMgYY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
