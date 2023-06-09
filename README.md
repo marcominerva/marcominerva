@@ -41,7 +41,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live stream di Marco Minerva](https://www.youtube.com/watch?v=3DcCU03KIP4)
+- [Live Coding: Data Protection API](https://www.youtube.com/watch?v=3DcCU03KIP4)
 - [Live Coding: integriamo Alpine.js con Razor Pages e Web API](https://www.youtube.com/watch?v=xgAayjk7-ow)
 - [Live Coding: le novità di .NET 8 Preview 4 &lpar;e non solo&rpar;](https://www.youtube.com/watch?v=ZXxZlTsgmsI)
 - [Live Coding: Razor Pages e Web API nella stessa applicazione ASP.NET Core &lpar;terza parte&rpar;](https://www.youtube.com/watch?v=-TOX27hGl0Y)
