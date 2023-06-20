@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/marcominerva/ChatGptNet/pull/79) in [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet)
+1. 🚀 Published release [TinyHelpers.AspNetCore 2.0.22](https://github.com/TinyHelpers.AspNetCore 2.0.22) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
 <!--END_SECTION:activity-->
 
 </details>
