@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [&quot;Live Coding&quot;.Replace&lpar;&quot;Coding&quot;, &quot;Q&amp;A #3&quot;&rpar;;](https://www.youtube.com/watch?v=ht4Yabngg3o)
 - [Live Coding: integriamo ChatGPT con i nostri dati](https://www.youtube.com/watch?v=zJiIka4yoBI)
 - [Live Coding: realizziamo una macchina del tempo per i nostri dati con Entity Framework Core](https://www.youtube.com/watch?v=hXi4yYTvCSo)
 - [Live Coding: Data Protection API](https://www.youtube.com/watch?v=3DcCU03KIP4)
 - [Live Coding: integriamo Alpine.js con Razor Pages e Web API](https://www.youtube.com/watch?v=xgAayjk7-ow)
-- [Live Coding: le novità di .NET 8 Preview 4 &lpar;e non solo&rpar;](https://www.youtube.com/watch?v=ZXxZlTsgmsI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
