@@ -41,7 +41,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: autenticazione multipla con ASP.NET Core](https://www.youtube.com/watch?v=J0_Kl0x8NOQ)
+- [Live Coding: autenticazione multipla con ASP.NET Core &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=J0_Kl0x8NOQ)
 - [&quot;Live Coding&quot;.Replace&lpar;&quot;Coding&quot;, &quot;Q&amp;A #3&quot;&rpar;;](https://www.youtube.com/watch?v=ht4Yabngg3o)
 - [Live Coding: integriamo ChatGPT con i nostri dati](https://www.youtube.com/watch?v=zJiIka4yoBI)
 - [Live Coding: realizziamo una macchina del tempo per i nostri dati con Entity Framework Core](https://www.youtube.com/watch?v=hXi4yYTvCSo)
