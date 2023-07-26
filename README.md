@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/marcominerva/ChatGptPlayground/issues/7) in [marcominerva/ChatGptPlayground](https://github.com/marcominerva/ChatGptPlayground)
+1. ❗ Opened issue [#95](https://github.com/marcominerva/ChatGptNet/issues/95) in [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet)
 <!--END_SECTION:activity-->
 
 </details>
