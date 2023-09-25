@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ChatGPT: l&#39;Intelligenza Artificiale del futuro è qui](https://www.youtube.com/watch?v=83PNZwDIOUA)
 - [&quot;Live Coding&quot;.Replace&lpar;&quot;Coding&quot;, &quot;Q&amp;A #5&quot;&rpar;;](https://www.youtube.com/watch?v=6nZQKF3XOps)
 - [Live Coding: .NET tips &amp; tricks #1](https://www.youtube.com/watch?v=dyZRst2xNBA)
 - [Live Coding: localizzazione dei dati su database con Entity Framework Core](https://www.youtube.com/watch?v=8hokzPsXr-s)
 - [&quot;Live Coding&quot;.Replace&lpar;&quot;Coding&quot;, &quot;Q&amp;A #4&quot;&rpar;;](https://www.youtube.com/watch?v=0QTZUzgviQQ)
-- [Live Coding: autenticazione multipla con ASP.NET Core &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=lysMVGOqV5Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
