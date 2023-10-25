@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: guida pratica all&#39;embedding con OpenAI &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=8YtzO4FUj68)
 - [Live Coding: guida pratica all&#39;embedding con OpenAI &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=yxhrxiDCbho)
 - [Demo of DatabaseGPT project](https://www.youtube.com/watch?v=9T0yx-kXw4E)
 - [Live Coding: resilienza e gestione degli errori transienti con Polly v8](https://www.youtube.com/watch?v=MXYqGF_l-Os)
 - [Integriamo ChatGPT nelle nostre applicazioni](https://www.youtube.com/watch?v=QK_VwnaEqVM)
-- [ChatGPT: l&#39;Intelligenza Artificiale del futuro è qui](https://www.youtube.com/watch?v=83PNZwDIOUA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
