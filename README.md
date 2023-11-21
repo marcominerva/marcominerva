@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Le novità di Entity Framework Core 8.0](https://www.youtube.com/watch?v=pruLnXKGf18)
 - [Live Coding: Minimal API recap &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=tImjI4_rfZ4)
 - [Live Coding: gestire operazioni di lunga durata con ASP.NET Core](https://www.youtube.com/watch?v=vPUDFNUue7M)
 - [Live Coding: guida pratica all&#39;embedding con OpenAI &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=8YtzO4FUj68)
 - [Live Coding: guida pratica all&#39;embedding con OpenAI &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=yxhrxiDCbho)
-- [Demo of DatabaseGPT project](https://www.youtube.com/watch?v=9T0yx-kXw4E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
