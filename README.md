@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DallENet 2.0.5](https://github.com/marcominerva/DallENet/releases/tag/v2.0.5) in [marcominerva/DallENet](https://github.com/marcominerva/DallENet)
+1. 🗣 Commented on [#3968](https://github.com/microsoft/semantic-kernel/issues/3968#issuecomment-1840417724) in [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
 <!--END_SECTION:activity-->
 
 </details>
