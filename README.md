@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#41](https://github.com/marcominerva/OperationResults/issues/41) in [marcominerva/OperationResults](https://github.com/marcominerva/OperationResults)
+1. 🚀 Published release [StorageProviders.Abstractions 1.0.14](https://github.com/marcominerva/StorageProviders/releases/tag/abstractions_v1.0.14) in [marcominerva/StorageProviders](https://github.com/marcominerva/StorageProviders)
 <!--END_SECTION:activity-->
 
 </details>
