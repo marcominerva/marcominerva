@@ -12,11 +12,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 
 ### Connect with me:
 
-[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
-[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />][twitter]
-[<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitch.svg" />][twitch]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" title="About me" />][website] 
+[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" title="X" />][twitter]
+[<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitch.svg" title="Twitch" />][twitch]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" title="YouTube" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" title="LinkedIn" />][linkedin]
 <br />
 
 ### Languages and Tools:
