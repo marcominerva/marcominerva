@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/marcominerva/OpenAIEmbeddingSample/issues/2) in [marcominerva/OpenAIEmbeddingSample](https://github.com/marcominerva/OpenAIEmbeddingSample)
+1. ❗ Opened issue [#97](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer/issues/97) in [kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer)
 <!--END_SECTION:activity-->
 
 </details>
