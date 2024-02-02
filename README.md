@@ -40,7 +40,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: le novità di ASP.NET Core 8.0 e dintorni](https://www.youtube.com/watch?v=G8gfxAhsquo)
+- [Live Coding: le novità di ASP.NET Core 8.0 e dintorni &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=G8gfxAhsquo)
 - [Guida pratica a Kernel Memory](https://www.youtube.com/watch?v=BHb3Isx91YM)
 - [Le novità di  NET 8 0](https://www.youtube.com/watch?v=N5RNpYUQx44)
 - [Live Coding: le novità di C# 12](https://www.youtube.com/watch?v=rJ8R7izq0QA)
