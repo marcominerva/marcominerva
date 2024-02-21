@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [OperationResultTools.AspNetCore 1.0.34](https://github.com/marcominerva/OperationResults/releases/tag/aspnetcore_v1.0.34) in [marcominerva/OperationResults](https://github.com/marcominerva/OperationResults)
+1. 🗣 Commented on [#109](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer/issues/109#issuecomment-1956313785) in [kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer](https://github.com/kbeaugrand/SemanticKernel.Connectors.Memory.SqlServer)
 <!--END_SECTION:activity-->
 
 </details>
