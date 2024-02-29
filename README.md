@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TinyHelpers.Dapper 3.0.6](https://github.com/marcominerva/TinyHelpers/releases/tag/dapper_v3.0.6) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+1. ❗ Opened issue [#332](https://github.com/microsoft/kernel-memory/issues/332) in [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory)
 <!--END_SECTION:activity-->
 
 </details>
