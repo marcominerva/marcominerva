@@ -40,7 +40,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: &quot;SEQ, Prometheus e Grafana: log e metriche sotto controllo&quot;](https://www.youtube.com/watch?v=pncFszh36qQ)
+- [Live Coding: SEQ, Prometheus e Grafana: log e metriche sotto controllo](https://www.youtube.com/watch?v=pncFszh36qQ)
 - [Live Coding: logging con .NET 8.0](https://www.youtube.com/watch?v=oiUsYkgbot4)
 - [Live Coding: le novità di Entity Framework Core 8.0](https://www.youtube.com/watch?v=2bcdc7rq5mo)
 - [Live Coding: le novità di ASP.NET Core 8.0 &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=1Cbb34TLdR8)
