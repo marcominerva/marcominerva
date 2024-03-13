@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#361](https://github.com/microsoft/kernel-memory/issues/361#issuecomment-1994567029) in [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory)
+1. 🚀 Published release [ChatGptNet 3.2.10](https://github.com/marcominerva/ChatGptNet/releases/tag/v3.2.10) in [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet)
 <!--END_SECTION:activity-->
 
 </details>
