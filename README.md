@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#361](https://github.com/microsoft/kernel-memory/issues/361) in [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory)
+1. 💪 Opened PR [#362](https://github.com/microsoft/kernel-memory/pull/362) in [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory)
 <!--END_SECTION:activity-->
 
 </details>
