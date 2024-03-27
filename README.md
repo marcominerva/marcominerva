@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TinyHelpers.EntityFrameworkCore 3.0.14](https://github.com/marcominerva/TinyHelpers/releases/tag/ef_v3.0.14) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+1. 🗣 Commented on [#4](https://github.com/marcominerva/OpenAIEmbeddingSample/issues/4#issuecomment-2022520069) in [marcominerva/OpenAIEmbeddingSample](https://github.com/marcominerva/OpenAIEmbeddingSample)
 <!--END_SECTION:activity-->
 
 </details>
