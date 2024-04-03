@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: integriamo Kernel Memory nelle nostre applicazioni](https://www.youtube.com/watch?v=j6piwXoKYr0)
 - [Live Coding: introduzione a Kernel Memory](https://www.youtube.com/watch?v=zbASHvP9nbs)
 - [Live Coding: quattro chiacchere su Native AOT e Source Generator](https://www.youtube.com/watch?v=_mKu8H5pxFM)
 - [Live Coding: SEQ, Prometheus e Grafana: log e metriche sotto controllo](https://www.youtube.com/watch?v=pncFszh36qQ)
 - [Live Coding: logging con .NET 8.0](https://www.youtube.com/watch?v=oiUsYkgbot4)
-- [Live Coding: le novità di Entity Framework Core 8.0](https://www.youtube.com/watch?v=2bcdc7rq5mo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
