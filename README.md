@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [StorageProviders.AzureStorage 1.0.23](https://github.com/marcominerva/StorageProviders/releases/tag/azurestorage_v1.0.23) in [marcominerva/StorageProviders](https://github.com/marcominerva/StorageProviders)
+1. ❗ Opened issue [#393](https://github.com/microsoft/kernel-memory/issues/393) in [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory)
 <!--END_SECTION:activity-->
 
 </details>
