@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: gestire correttamente la cache con ASP.NET Core](https://www.youtube.com/watch?v=Ly7NdXXTPlg)
 - [Live Coding: alla scoperta delle alternative a Swagger](https://www.youtube.com/watch?v=gen7x4__uxY)
 - [Chatta con i tuoi dati privati usando Azure e Kernel Memory](https://www.youtube.com/watch?v=sL_M-4UV47M)
 - [Live Coding: integriamo Kernel Memory nelle nostre applicazioni &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=OtRIVyTI13A)
 - [Live Coding: integriamo Kernel Memory nelle nostre applicazioni &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=j6piwXoKYr0)
-- [Live Coding: introduzione a Kernel Memory](https://www.youtube.com/watch?v=zbASHvP9nbs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
