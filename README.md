@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: Usare PostgreSQL con Entity Framework Core](https://www.youtube.com/watch?v=bMfTtDRj8XY)
 - [Live Coding: Monitorare lo stato di un&#39;applicazione ASP.NET Core con gli Health Checks](https://www.youtube.com/watch?v=HNGEpyAbFgY)
 - [Intelligenza Artificiale: Amica o nemica?](https://www.youtube.com/watch?v=LoFGnaijHNA)
 - [Tabya Conf 2024](https://www.youtube.com/watch?v=4DyFVcK8o5A)
 - [Live Coding: .NET 9.0 Preview 4](https://www.youtube.com/watch?v=0DljLNeIjfo)
-- [Live Coding: approfondimenti sulla Dependency Injection](https://www.youtube.com/watch?v=Zfzmu6aLTWU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
