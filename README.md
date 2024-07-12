@@ -40,7 +40,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: continuiamo la scoperta di Aspire](https://www.youtube.com/watch?v=8yNUVubpszM)
+- [Live Coding: continuiamo la scoperta di Aspire &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=8yNUVubpszM)
 - [Live Coding: utilizzo avanzato di Kernel Memory](https://www.youtube.com/watch?v=MPKIJpmNGeo)
 - [Live Coding: alla scoperta di Aspire](https://www.youtube.com/watch?v=w473skVZAyk)
 - [Svelare la Magia dell&#39;IA Generativa: Creare la Tua Presentazione con l&#39;Aiuto dell&#39;IA](https://www.youtube.com/watch?v=iGveRD_NsMQ)
