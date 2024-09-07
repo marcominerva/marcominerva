@@ -40,7 +40,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: Mantenere aggiornata una codebase e gestire le breaking change](https://www.youtube.com/watch?v=1WufoCsn6yk)
+- [Live Coding: mantenere aggiornata una codebase e gestire le breaking change](https://www.youtube.com/watch?v=1WufoCsn6yk)
 - [&quot;Live Coding&quot;.Replace&lpar;&quot;Coding&quot;, &quot;Q&amp;A #6&quot;&rpar;;](https://www.youtube.com/watch?v=MDrBN3CXQnA)
 - [Live Coding: continuiamo la scoperta di Aspire &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=c6cbO_9yNSc)
 - [Live Coding: continuiamo la scoperta di Aspire &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=8yNUVubpszM)
