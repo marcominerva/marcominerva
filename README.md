@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: dai Controller alle Minimal API](https://www.youtube.com/watch?v=wHP661NDQ7I)
 - [Live Coding: aggiungere la validazione dei dati in una Minimal API](https://www.youtube.com/watch?v=RLWCdj-Lo1c)
 - [Minimal API: The road so far](https://www.youtube.com/watch?v=VKhqdZ-j7W0)
 - [Live Coding: versionamento delle Web API](https://www.youtube.com/watch?v=ZbLPn01jEEI)
 - [Live Coding: autenticazione a due fattori con Web API e Authenticator app](https://www.youtube.com/watch?v=dLHWST1BI6A)
-- [Live Coding: mantenere aggiornata una codebase e gestire le breaking change](https://www.youtube.com/watch?v=1WufoCsn6yk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
