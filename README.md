@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/marcominerva/MinimalHelpers/pull/63) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
+1. ❗ Opened issue [#64](https://github.com/marcominerva/MinimalHelpers/issues/64) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
 <!--END_SECTION:activity-->
 
 </details>
