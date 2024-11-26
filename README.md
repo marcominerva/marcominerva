@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation/issues/150#issuecomment-2500032222) in [micro-elements/MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation)
+1. 🔓 Reopened issue [#150](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation/issues/150) in [micro-elements/MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation)
 <!--END_SECTION:activity-->
 
 </details>
