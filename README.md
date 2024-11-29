@@ -40,7 +40,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: le novità di .NET 9.0](https://www.youtube.com/watch?v=J7jtXhFWnw8)
+- [Live Coding: le novità di .NET 9.0 &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=J7jtXhFWnw8)
 - [Live Coding: aggiornare una libreria alla nuova versione di .NET](https://www.youtube.com/watch?v=ZfUlOwIdT6o)
 - [Live Coding: usare un template engine in .NET](https://www.youtube.com/watch?v=JwQwuT9dTtw)
 - [Presentazione della sessione &quot;Le novità di C# 13 e .NET 9.0&quot; a WPC 2024](https://www.youtube.com/watch?v=vfnvUZy9J0I)
