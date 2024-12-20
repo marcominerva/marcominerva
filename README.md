@@ -13,9 +13,10 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### Connect with me:
 
 [<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" title="About me" />][website] 
-[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" title="X" />][twitter]
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitch.svg" title="Twitch" />][twitch]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" title="YouTube" />][youtube]
+[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" title="X" />][x]
+[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg" title="Bluesky" />][bluesky]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" title="LinkedIn" />][linkedin]
 <br />
 
@@ -55,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/marcominerva/ChatGptPlayground/pull/43) in [marcominerva/ChatGptPlayground](https://github.com/marcominerva/ChatGptPlayground)
+1. 🗣 Commented on [#872](https://github.com/microsoft/kernel-memory/pull/872#issuecomment-2551150867) in [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory)
 <!--END_SECTION:activity-->
 
 </details>
@@ -68,7 +69,8 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 </details>
 
 [website]: https://about.me/marcominerva
-[twitter]: https://twitter.com/marcominerva
 [twitch]: https://twitch.tv/marcominerva
 [youtube]: https://www.youtube.com/marcominerva
+[x]: https://x.com/marcominerva
+[bluesky]: https://bsky.app/profile/marcominerva.github.io
 [linkedin]: https://linkedin.com/in/marcominerva
