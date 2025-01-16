@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/efcore/EFCore.SqlServer.VectorSearch/pull/10#issuecomment-2592965400) in [efcore/EFCore.SqlServer.VectorSearch](https://github.com/efcore/EFCore.SqlServer.VectorSearch)
+1. 🚀 Published release [MinimalHelpers.Validation 1.1.3](https://github.com/marcominerva/MinimalHelpers/releases/tag/validation_v1.1.3) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
 <!--END_SECTION:activity-->
 
 </details>
