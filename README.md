@@ -41,7 +41,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: Open API &lpar;Swagger&rpar; in ASP.NET Core 9.0](https://www.youtube.com/watch?v=AJAk7oylArQ)
+- [Live Coding: OpenAPI &lpar;Swagger&rpar; in ASP.NET Core 9.0](https://www.youtube.com/watch?v=AJAk7oylArQ)
 - [Live Coding: le novità di Entity Framework Core 9.0](https://www.youtube.com/watch?v=lTGaPVv42wc)
 - [Live Coding: le novità di ASP.NET Core 9.0](https://www.youtube.com/watch?v=hsrYjU4aQRY)
 - [Live Coding: le novità di .NET 9.0](https://www.youtube.com/watch?v=J7jtXhFWnw8)
