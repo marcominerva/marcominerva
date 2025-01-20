@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [OperationResultTools.AspNetCore.Http 1.0.28](https://github.com/marcominerva/OperationResults/releases/tag/minimalapi_v1.0.28) in [marcominerva/OperationResults](https://github.com/marcominerva/OperationResults)
+1. 🗣 Commented on [#69](https://github.com/marcominerva/DatabaseGPT/issues/69#issuecomment-2602054072) in [marcominerva/DatabaseGPT](https://github.com/marcominerva/DatabaseGPT)
 <!--END_SECTION:activity-->
 
 </details>
