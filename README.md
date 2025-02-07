@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/marcominerva/MinimalHelpers/issues/71#issuecomment-2636092983) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
+1. 🔒 Closed issue [#6](https://github.com/marcominerva/SqlDatabaseVectorSearch/issues/6) in [marcominerva/SqlDatabaseVectorSearch](https://github.com/marcominerva/SqlDatabaseVectorSearch)
 <!--END_SECTION:activity-->
 
 </details>
