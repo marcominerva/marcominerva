@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: alla scoperta di Microsoft.Extensions.AI](https://www.youtube.com/watch?v=u3yItkI6Plo)
 - [Live Coding: alla scoperta di FusionCache](https://www.youtube.com/watch?v=tj6w4V_cGRo)
 - [Live Coding: sviluppare un servizio per l&#39;invio di e-mail](https://www.youtube.com/watch?v=HWA3_vsuMJ0)
 - [Live Coding: OpenAPI &lpar;Swagger&rpar; in ASP.NET Core 9.0](https://www.youtube.com/watch?v=AJAk7oylArQ)
 - [Live Coding: le novità di Entity Framework Core 9.0](https://www.youtube.com/watch?v=lTGaPVv42wc)
-- [Live Coding: le novità di ASP.NET Core 9.0](https://www.youtube.com/watch?v=hsrYjU4aQRY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
