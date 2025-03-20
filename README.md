@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SimpleAuthenticationTools.Swashbuckle 3.0.10](https://github.com/marcominerva/SimpleAuthentication/releases/tag/swashbuckle_v3.0.10) in [marcominerva/SimpleAuthentication](https://github.com/marcominerva/SimpleAuthentication)
+1. ❗ Opened issue [#160](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation/issues/160) in [micro-elements/MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation)
 <!--END_SECTION:activity-->
 
 </details>
