@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: creiamo un servizio per la generazione di PDF &lpar;template engine e creazione del file&rpar;](https://www.youtube.com/watch?v=kAkFCdR1KYQ)
 - [Live Coding: creiamo un servizio per la generazione di PDF &lpar;definizione dell&#39;architettura&rpar;](https://www.youtube.com/watch?v=anqV3zkeyrM)
 - [Live Coding: il CancellationToken](https://www.youtube.com/watch?v=tMz-oanq1ow)
 - [Live Coding: scrivere codice testabile in .NET](https://www.youtube.com/watch?v=L8iWIIfxPLQ)
 - [Live Coding: OpenAPI con Intelligenza Artificiale](https://www.youtube.com/watch?v=7Ayoi5IdgH0)
-- [Live Coding: .NET 10 Preview 1](https://www.youtube.com/watch?v=wrhZRDFZcAA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
