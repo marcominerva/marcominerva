@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/marcominerva/ChatGptNet/issues/171#issuecomment-2840032759) in [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet)
+1. 🚀 Published release [MinimalHelpers.FluentValidation 1.1.3](https://github.com/marcominerva/MinimalHelpers/releases/tag/fluentvalidation_v1.1.3) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
 <!--END_SECTION:activity-->
 
 </details>
