@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12212](https://github.com/microsoft/semantic-kernel/issues/12212) in [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
+1. 🗣 Commented on [#3420](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/3420#issuecomment-2903652528) in [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore)
 <!--END_SECTION:activity-->
 
 </details>
