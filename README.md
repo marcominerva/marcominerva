@@ -41,11 +41,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: sviluppiamo un sistema di scambio messaggi con .NET](https://www.youtube.com/watch?v=qWab_pEkIR4)
 - [Taggia](https://www.youtube.com/watch?v=fSxIyQV_cHI)
 - [Tabya Conf 2025](https://www.youtube.com/watch?v=0YyXre7Rz0k)
 - [Live Coding: Da zero a RAG - costruiamo un&#39;app AI in diretta con il nuovo template di .NET](https://www.youtube.com/watch?v=Rzdlvf4ESZw)
 - [Live Coding: creiamo un servizio per la generazione di PDF &lpar;opzioni e configurazione avanzata&rpar;](https://www.youtube.com/watch?v=mIg0Fa37Gc0)
-- [Live Coding: creiamo un servizio per la generazione di PDF &lpar;template engine e creazione del file&rpar;](https://www.youtube.com/watch?v=kAkFCdR1KYQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
