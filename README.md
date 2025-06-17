@@ -56,7 +56,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62311](https://github.com/dotnet/aspnetcore/issues/62311#issuecomment-2979652854) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+1. 🚀 Published release [TinyHelpers.AspNetCore 4.0.28](https://github.com/marcominerva/TinyHelpers/releases/tag/aspnetcore_v4.0.28) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
 <!--END_SECTION:activity-->
 
 </details>
