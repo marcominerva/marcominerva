@@ -40,7 +40,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: tecniche avanzate di chunking del testo in scenari RAG](https://www.youtube.com/watch?v=8EndOZFpsRg)
+- [Live Coding: tecniche avanzate di estrazione del testo per scenari RAG](https://www.youtube.com/watch?v=8EndOZFpsRg)
 - [Live Coding: creiamo un servizio per la generazione di PDF &lpar;deploy automatizzato su Azure&rpar;](https://www.youtube.com/watch?v=mCZBee7IORY)
 - [Live Coding: sviluppiamo un sistema di scambio messaggi con .NET &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=jDVwXREqsto)
 - [Live Coding: sviluppiamo un sistema di scambio messaggi con .NET &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=qWab_pEkIR4)
