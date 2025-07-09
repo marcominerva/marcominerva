@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [MinimalHelpers.OpenApi 2.1.10](https://github.com/marcominerva/MinimalHelpers/releases/tag/openapi_v2.1.10) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
+1. 🚀 Published release [SimpleAuthenticationTools.Abstractions 3.0.10](https://github.com/marcominerva/SimpleAuthentication/releases/tag/abstractions_v3.0.10) in [marcominerva/SimpleAuthentication](https://github.com/marcominerva/SimpleAuthentication)
 <!--END_SECTION:activity-->
 
 </details>
