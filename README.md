@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/marcominerva/StorageProviders/issues/43#issuecomment-3050313328) in [marcominerva/StorageProviders](https://github.com/marcominerva/StorageProviders)
+1. 🚀 Published release [MinimalHelpers.OpenApi 2.1.10](https://github.com/marcominerva/MinimalHelpers/releases/tag/openapi_v2.1.10) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
 <!--END_SECTION:activity-->
 
 </details>
