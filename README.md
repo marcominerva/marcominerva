@@ -40,7 +40,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: si riparte! Progettare una Web API nel modo migliore](https://www.youtube.com/watch?v=EsMOd7vgnq8)
+- [Live Coding: si riparte! Progettare una Web API nel modo migliore &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=EsMOd7vgnq8)
 - [Live Coding: le insidie delle operazioni CRUD &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=l_97kM26ncU)
 - [Live Coding: le insidie delle operazioni CRUD &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=1xpuyA7xfbk)
 - [Live Coding: data mapping in .NET](https://www.youtube.com/watch?v=T4iOOHLpTFo)
