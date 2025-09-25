@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#62767](undefined) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+1. ❌ Reopened PR [#62767](https://github.com/dotnet/aspnetcore/pull/62767) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 <!--END_SECTION:activity-->
 
 </details>
