@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: approfondimenti sull&#39;utilizzo di MCP con .NET](https://www.youtube.com/watch?v=S1dUCgw9HoI)
 - [Live Coding: sviluppiamo un server MCP con ASP.NET Core](https://www.youtube.com/watch?v=IBNQg8g7mAI)
 - [Live Coding: progettare una Web API nel modo migliore &lpar;terza parte&rpar;](https://www.youtube.com/watch?v=gSLN8I7FYJw)
 - [Live Coding: progettare una Web API nel modo migliore &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=B9Gs_va9EHY)
 - [Live Coding: si riparte! Progettare una Web API nel modo migliore &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=EsMOd7vgnq8)
-- [Live Coding: le insidie delle operazioni CRUD &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=l_97kM26ncU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
