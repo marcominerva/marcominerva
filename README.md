@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#62767](undefined) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+1. 🗣 Commented on [#643](https://github.com/serilog-mssql/serilog-sinks-mssqlserver/issues/643#issuecomment-3438165866) in [serilog-mssql/serilog-sinks-mssqlserver](https://github.com/serilog-mssql/serilog-sinks-mssqlserver)
 <!--END_SECTION:activity-->
 
 </details>
