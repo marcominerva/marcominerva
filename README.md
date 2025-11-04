@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#643](https://github.com/serilog-mssql/serilog-sinks-mssqlserver/issues/643#issuecomment-3457925893) in [serilog-mssql/serilog-sinks-mssqlserver](https://github.com/serilog-mssql/serilog-sinks-mssqlserver)
+1. 🚀 Published release [MinimalHelpers.FluentValidation 1.1.6](https://github.com/marcominerva/MinimalHelpers/releases/tag/fluentvalidation_v1.1.6) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
 <!--END_SECTION:activity-->
 
 </details>
