@@ -40,8 +40,8 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Presentazione della sessione &quot;Le novità di .NET 10 e C#&quot; 14 a WPC 2025](https://www.youtube.com/watch?v=9RnUk5osIs4)
 - [Live Coding: alla scoperta del Microsoft Agent Framework](https://www.youtube.com/watch?v=YWbFVSXDzaA)
+- [Presentazione della sessione &quot;Le novità di .NET 10 e C#&quot; 14 a WPC 2025](https://www.youtube.com/watch?v=9RnUk5osIs4)
 - [Live Coding: riparliamo del logging con Serilog](https://www.youtube.com/watch?v=aKS9_JpU18E)
 - [Live Coding: quattro chiacchiere su Aspire](https://www.youtube.com/watch?v=txFlEqz_DN4)
 - [Live Coding: approfondimenti sull&#39;utilizzo di MCP con .NET](https://www.youtube.com/watch?v=S1dUCgw9HoI)
