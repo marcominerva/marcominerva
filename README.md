@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1.  Assigned issue [#174](https://github.com/marcominerva/SimpleAuthentication/issues/174) in [marcominerva/SimpleAuthentication](https://github.com/marcominerva/SimpleAuthentication)
+1. 🚀 Published release [OperationResultTools.AspNetCore 1.0.44](https://github.com/marcominerva/OperationResults/releases/tag/aspnetcore_v1.0.44) in [marcominerva/OperationResults](https://github.com/marcominerva/OperationResults)
 <!--END_SECTION:activity-->
 
 </details>
