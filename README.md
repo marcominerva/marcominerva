@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2054](https://github.com/microsoft/agent-framework/issues/2054) in [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+1. 🚀 Published release [SimpleAuthenticationTools.Swashbuckle 3.1.9](https://github.com/marcominerva/SimpleAuthentication/releases/tag/swashbuckle_v3.1.9) in [marcominerva/SimpleAuthentication](https://github.com/marcominerva/SimpleAuthentication)
 <!--END_SECTION:activity-->
 
 </details>
