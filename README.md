@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1.  Labeled issue [#92](https://github.com/marcominerva/MinimalHelpers/issues/92) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
+1.  Labeled issue [#48](https://github.com/marcominerva/StorageProviders/issues/48) in [marcominerva/StorageProviders](https://github.com/marcominerva/StorageProviders)
 <!--END_SECTION:activity-->
 
 </details>
