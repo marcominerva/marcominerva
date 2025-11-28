@@ -1,10 +1,9 @@
-#:package Spectre.Console@0.54.*
-
+using System.Text;
 using Spectre.Console;
 
-Console.OutputEncoding = System.Text.Encoding.UTF8;
+Console.OutputEncoding = Encoding.UTF8;
 
-var formatted = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
-var figlet = new FigletText(formatted).Color(Color.White).Centered(); 
+var dateTime = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
+var figlet = new FigletText(dateTime).Color(Color.White).Centered();
 
 AnsiConsole.Write(figlet);
