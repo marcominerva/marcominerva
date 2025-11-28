@@ -9,5 +9,3 @@ var dateTime = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
 var figlet = new FigletText(dateTime).Color(Color.White).Centered();
 
 AnsiConsole.Write(figlet);
-
-
