@@ -1,3 +1,5 @@
+#:package Spectre.Console@0.54.*
+
 using System.Text;
 using Spectre.Console;
 
