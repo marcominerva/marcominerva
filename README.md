@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/marcominerva/QrCodeGenerator/issues/5) in [marcominerva/QrCodeGenerator](https://github.com/marcominerva/QrCodeGenerator)
+1. 🗣 Commented on [#7](https://github.com/marcominerva/EmailManager/pull/7#issuecomment-3633268970) in [marcominerva/EmailManager](https://github.com/marcominerva/EmailManager)
 <!--END_SECTION:activity-->
 
 </details>
