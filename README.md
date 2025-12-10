@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/marcominerva/EmailManager/pull/7#issuecomment-3633268970) in [marcominerva/EmailManager](https://github.com/marcominerva/EmailManager)
+1. 🚀 Published release [MinimalHelpers.FluentValidation 1.1.8](https://github.com/marcominerva/MinimalHelpers/releases/tag/fluentvalidation_v1.1.8) in [marcominerva/MinimalHelpers](https://github.com/marcominerva/MinimalHelpers)
 <!--END_SECTION:activity-->
 
 </details>
