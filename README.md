@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [SimpleTransit 1.0.26](https://github.com/marcominerva/SimpleTransit/releases/tag/v1.0.26) in [marcominerva/SimpleTransit](https://github.com/marcominerva/SimpleTransit)
+1. ❗ Opened issue [#659](https://github.com/serilog-mssql/serilog-sinks-mssqlserver/issues/659) in [serilog-mssql/serilog-sinks-mssqlserver](https://github.com/serilog-mssql/serilog-sinks-mssqlserver)
 <!--END_SECTION:activity-->
 
 </details>
