@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62200](https://github.com/dotnet/aspnetcore/issues/62200#issuecomment-3665529294) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+1. ℹ️ Assigned issue [#1](https://github.com/marcominerva/ProjectToFileBasedAppConverter/issues/1) in [marcominerva/ProjectToFileBasedAppConverter](https://github.com/marcominerva/ProjectToFileBasedAppConverter)
 <!--END_SECTION:activity-->
 
 </details>
