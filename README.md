@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: approfondiamo il Microsoft Agent Framework](https://www.youtube.com/watch?v=p5mecRozVRQ)
 - [Live Coding: le novità di Entity Framework Core 10](https://www.youtube.com/watch?v=C_b98uzxhcQ)
 - [Live Coding: le novità di ASP.NET Core 10](https://www.youtube.com/watch?v=Zvp_KjW2hGI)
 - [Live Coding: le novità di .NET 10](https://www.youtube.com/watch?v=Gd7LgIOzqSk)
 - [Live Coding: sviluppiamo un&#39;API per generare QR Code](https://www.youtube.com/watch?v=cR15-ZbsWmw)
-- [Live Coding: alla scoperta delle file-based apps](https://www.youtube.com/watch?v=rhUvl-PwLVU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
