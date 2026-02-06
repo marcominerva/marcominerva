@@ -40,7 +40,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Live Coding: creare Workflow con il Microsoft Agent Framework](https://www.youtube.com/watch?v=jUUI1pAAZiM)
+- [Live Coding: creare Workflow con il Microsoft Agent Framework &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=jUUI1pAAZiM)
 - [Live Coding: approfondiamo il Microsoft Agent Framework](https://www.youtube.com/watch?v=p5mecRozVRQ)
 - [Live Coding: le novità di Entity Framework Core 10](https://www.youtube.com/watch?v=C_b98uzxhcQ)
 - [Live Coding: le novità di ASP.NET Core 10](https://www.youtube.com/watch?v=Zvp_KjW2hGI)
