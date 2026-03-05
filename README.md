@@ -55,7 +55,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
   <summary>:zap: Recent GitHub Activities</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4446](https://github.com/microsoft/agent-framework/issues/4446#issuecomment-3997624598) in [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
+1. ℹ️ Labeled issue [#4494](https://github.com/microsoft/agent-framework/issues/4494) in [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
 <!--END_SECTION:activity-->
 
 </details>
