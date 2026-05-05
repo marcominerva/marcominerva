@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: Tool nativi, reasoning e utilizzo di immagini con Microsoft Agent Framework](https://www.youtube.com/watch?v=GHBYV0Ou0Lk)
 - [Live Coding: RAG con Microsoft Agent Framework](https://www.youtube.com/watch?v=WZouYt8Z0es)
 - [Live Coding: approfondiamo i sistemi multi-agente con Microsoft Agent Framework](https://www.youtube.com/watch?v=2oH-72gTxII)
 - [Live Coding: tool e sistemi multi-agente con Agent Framework](https://www.youtube.com/watch?v=zggkiztprNw)
 - [Live Coding: creiamo un Bot di Telegram in .NET &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=XFD9E1Sk0U8)
-- [Live Coding: creiamo un Bot di Telegram in .NET &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=pTibJusEUHk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
