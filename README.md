@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: organizzare un&#39;API versionata](https://www.youtube.com/watch?v=PLkQ5emXEJo)
 - [Live Coding: riprendiamo il versionamento delle Web API](https://www.youtube.com/watch?v=h9czNPIffnE)
 - [Live Coding: gestione della concorrenza con Entity Framework Core](https://www.youtube.com/watch?v=dhXxcNIcMtk)
 - [Live Coding: Tool nativi, reasoning e utilizzo di immagini con Microsoft Agent Framework](https://www.youtube.com/watch?v=GHBYV0Ou0Lk)
 - [Live Coding: RAG con Microsoft Agent Framework](https://www.youtube.com/watch?v=WZouYt8Z0es)
-- [Live Coding: approfondiamo i sistemi multi-agente con Microsoft Agent Framework](https://www.youtube.com/watch?v=2oH-72gTxII)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
