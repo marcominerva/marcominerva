@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: alla scoperta di Polecat](https://www.youtube.com/watch?v=MwpxJvEVbj4)
 - [Live Coding: Sviluppiamo un File Browser in ASP.NET Core](https://www.youtube.com/watch?v=5g3VjGmOiHo)
 - [Live Coding: Server-Sent Events](https://www.youtube.com/watch?v=57M4XTz5Kww)
 - [Live Coding: agenti, workflow e conversione di PDF in markdown](https://www.youtube.com/watch?v=MfEHeCfcE_4)
 - [Live Coding: organizzare un&#39;API versionata](https://www.youtube.com/watch?v=PLkQ5emXEJo)
-- [Live Coding: riprendiamo il versionamento delle Web API](https://www.youtube.com/watch?v=h9czNPIffnE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
