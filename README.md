@@ -40,11 +40,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: gli Union Type di C# 15](https://www.youtube.com/watch?v=soY2S7YI5rY)
 - [Live Coding: gestire la persistenza della sessione con Microsoft Agent Framework](https://www.youtube.com/watch?v=tbol1i5v19g)
 - [Live Coding: gestire la memoria utente con Microsoft Agent Framework](https://www.youtube.com/watch?v=Q_xqsqVGe_w)
 - [Live Coding: alla scoperta di Polecat](https://www.youtube.com/watch?v=MwpxJvEVbj4)
 - [Live Coding: Sviluppiamo un File Browser in ASP.NET Core](https://www.youtube.com/watch?v=5g3VjGmOiHo)
-- [Live Coding: Server-Sent Events](https://www.youtube.com/watch?v=57M4XTz5Kww)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
