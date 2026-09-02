@@ -1,9 +1,8 @@
 ### Hi there, I'm [Marco][website] 👋 💻
 
 [![GitHub followers](https://img.shields.io/github/followers/marcominerva?label=GitHub%20Followers&style=for-the-badge)](https://github.com/marcominerva)
+[![GitHub User's stars](https://img.shields.io/github/stars/marcominerva?style=for-the-badge&label=GitHub%20Stars)](https://github.com/marcominerva)
 [![Twitch Status](https://img.shields.io/twitch/status/marcominerva?style=for-the-badge)](https://www.twitch.tv/marcominerva)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/marcominerva)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge)](https://youtube.com/marcominerva)
 
 ## I'm a Consultant, a Software Engineer, a Teacher and a Speaker!
 
@@ -15,7 +14,7 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitch.svg" title="Twitch" />][twitch]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" title="YouTube" />][youtube]
 [<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" title="X" />][x]
-[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg" title="Bluesky" />][bluesky]
+[<img align="left" alt="Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg" title="Bluesky" />][bluesky]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" title="LinkedIn" />][linkedin]
 <br />
 
