@@ -39,11 +39,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: sviluppiamo una libreria per la resilienza in stile Polly &lpar;seconda parte&rpar;](https://www.youtube.com/watch?v=JPQzbaRBu8g)
 - [Live Coding: sviluppiamo una libreria per la resilienza in stile Polly &lpar;prima parte&rpar;](https://www.youtube.com/watch?v=x4USGV7crdY)
 - [Live Coding: da Semantic Kernel a Microsoft Agent Framework](https://www.youtube.com/watch?v=nbv-nMqw-XM)
 - [Live Coding: gli Union Type di C# 15](https://www.youtube.com/watch?v=soY2S7YI5rY)
 - [Live Coding: gestire la persistenza della sessione con Microsoft Agent Framework](https://www.youtube.com/watch?v=tbol1i5v19g)
-- [Live Coding: gestire la memoria utente con Microsoft Agent Framework](https://www.youtube.com/watch?v=Q_xqsqVGe_w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
