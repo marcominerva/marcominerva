@@ -39,11 +39,11 @@ I have been using .NET since its first introduction. Today I proudly live in Tag
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Live Coding: alla scoperta di AG-UI](https://www.youtube.com/watch?v=jus1uoqKlDY)
 - [Live Coding: alla &lpar;ri&rpar;scoperta dei database projects](https://www.youtube.com/watch?v=wgzA9MJBHA0)
 - [Presentazione della sessione &quot;Le novità di .NET 11 e C# 15&quot; a WPC 2026](https://www.youtube.com/watch?v=w9I3la8AOCs)
 - [Live Coding: permessi dinamici con ASP.NET Core Identity](https://www.youtube.com/watch?v=QdnpWOcsnuw)
 - [Live Coding: sviluppiamo un agente multi-modello con Jev](https://www.youtube.com/watch?v=A9STwnSWqyY)
-- [Live Coding: alla scoperta di Jev](https://www.youtube.com/watch?v=V5mzw6psJBQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
